@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Grazielle Conceição.
 
-Desenvolvedora dedicada com especialidade em Front-End com experiência em criação de landing page, hotsite e sistemas web utilizando ReactJS. Sou uma profissional fascinada em trazer soluções que irão dar produtividade aos clientes otimizando tempo.
+Desenvolvedora Front-End com experiência em React, Next.js e Typescript, especializada no desenvolvendo sistemas web com interfaces dinâmicas, responsivas e acessíveis.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grazielleanna&show_icons=false&theme=react&include_all_commits=true&count_private=true" /> 
